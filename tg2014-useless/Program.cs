@@ -6,59 +6,54 @@ using System.Runtime.InteropServices;
 using System.IO;
 using System.Media;
 
- 
-namespace MyTrayApp
-{
-    public class SysTrayApp : Form
-    {
-        
 
+namespace MyTrayApp {
+    public class SysTrayApp : Form {
+        private NotifyIcon trayIcon;
+        private ContextMenu trayMenu;
+        private KeyListener keyListener;
 
 
         [STAThread]
-        public static void Main()
-        {
+        public static void Main() {
             Application.Run(new SysTrayApp());
         }
- 
-        private NotifyIcon  trayIcon;
-        private ContextMenu trayMenu;
- 
-        public SysTrayApp()
-        {
+
+
+        public SysTrayApp() {
             trayMenu = new ContextMenu();
             trayMenu.MenuItems.Add("Exit", OnExit);
 
-            trayIcon      = new NotifyIcon();
-            trayIcon.Text = "MyTrayApp";
-            trayIcon.Icon = new Icon(SystemIcons.Application, 40, 40);
+            trayIcon = new NotifyIcon();
+            trayIcon.Text = "TG2014 Useless";
+            trayIcon.Icon = MyTrayApp.Properties.Resources.star_black;
 
             trayIcon.ContextMenu = trayMenu;
-            trayIcon.Visible     = true;
+            trayIcon.Visible = true;
 
-            new Class1();
+            keyListener = new KeyListener();
         }
- 
-        protected override void OnLoad(EventArgs e)
-        {
+
+
+        protected override void OnLoad(EventArgs e) {
             Visible = false;
             ShowInTaskbar = false;
- 
+
             base.OnLoad(e);
         }
- 
-        private void OnExit(object sender, EventArgs e)
-        {
+
+
+        private void OnExit(object sender, EventArgs e) {
+            keyListener.dispose();
             Application.Exit();
         }
- 
-        protected override void Dispose(bool isDisposing)
-        {
-            if (isDisposing)
-            {
+
+
+        protected override void Dispose(bool isDisposing) {
+            if (isDisposing) {
                 trayIcon.Dispose();
             }
- 
+
             base.Dispose(isDisposing);
         }
     }
