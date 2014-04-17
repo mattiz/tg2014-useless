@@ -22,6 +22,7 @@ namespace TG20014Useless {
 
         public SysTrayApp() {
             trayMenu = new ContextMenu();
+            trayMenu.MenuItems.Add("About", OnAbout);
             trayMenu.MenuItems.Add("Exit", OnExit);
 
             trayIcon = new NotifyIcon();
@@ -40,6 +41,11 @@ namespace TG20014Useless {
             ShowInTaskbar = false;
 
             base.OnLoad(e);
+        }
+
+
+        private void OnAbout(object sender, EventArgs e) {
+            MessageBox.Show("TG 2014 Useless contribution by mattis @ MooG");
         }
 
 
