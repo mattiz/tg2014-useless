@@ -8,7 +8,7 @@
     <ProjectGuid>{D51EE3B1-CCC4-48C1-9A48-292F1F14048B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MyTrayApp</RootNamespace>
+    <RootNamespace>TG20014Useless</RootNamespace>
     <AssemblyName>tg2014-useless</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>

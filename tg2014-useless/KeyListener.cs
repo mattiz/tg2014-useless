@@ -7,7 +7,7 @@ using System.IO;
 using System.Media;
 
 
-namespace MyTrayApp {
+namespace TG20014Useless {
     class KeyListener {
         private const int WH_KEYBOARD_LL = 13;
         private const int WM_KEYDOWN = 0x0100;
@@ -18,11 +18,11 @@ namespace MyTrayApp {
 
 
         public KeyListener() {
-            Stream str = MyTrayApp.Properties.Resources.click;
+            Stream str = TG20014Useless.Properties.Resources.click;
             clickSnd = new SoundPlayer(str);
             clickSnd.Load();
 
-            Stream str2 = MyTrayApp.Properties.Resources.pling;
+            Stream str2 = TG20014Useless.Properties.Resources.pling;
             plingSnd = new SoundPlayer(str2);
             clickSnd.Load();
 

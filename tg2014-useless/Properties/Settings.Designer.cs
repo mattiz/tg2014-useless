@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MyTrayApp.Properties {
+namespace TG20014Useless.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

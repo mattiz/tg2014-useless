@@ -7,7 +7,7 @@ using System.IO;
 using System.Media;
 
 
-namespace MyTrayApp {
+namespace TG20014Useless {
     public class SysTrayApp : Form {
         private NotifyIcon trayIcon;
         private ContextMenu trayMenu;
@@ -26,7 +26,7 @@ namespace MyTrayApp {
 
             trayIcon = new NotifyIcon();
             trayIcon.Text = "TG2014 Useless";
-            trayIcon.Icon = MyTrayApp.Properties.Resources.star_black;
+            trayIcon.Icon = TG20014Useless.Properties.Resources.star_black;
 
             trayIcon.ContextMenu = trayMenu;
             trayIcon.Visible = true;
