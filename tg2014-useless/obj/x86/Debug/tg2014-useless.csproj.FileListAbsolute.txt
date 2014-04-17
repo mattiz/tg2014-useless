@@ -7,3 +7,8 @@ C:\Users\mattis\AppData\Local\Temporary Projects\tg2014-useless\obj\x86\Debug\tg
 C:\Users\mattis\AppData\Local\Temporary Projects\tg2014-useless\obj\x86\Debug\tg2014_useless.Form1.resources
 C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\obj\x86\Debug\tg2014-useless.exe
 C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\obj\x86\Debug\tg2014-useless.pdb
+C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\bin\Debug\tg2014-useless.exe
+C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\bin\Debug\tg2014-useless.pdb
+C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\obj\x86\Debug\MyTrayApp.SysTrayApp.resources
+C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\obj\x86\Debug\tg2014-useless.csproj.GenerateResource.Cache
+C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\obj\x86\Debug\MyTrayApp.Properties.Resources.resources

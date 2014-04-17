@@ -1,11 +1,20 @@
 ﻿using System;
 using System.Drawing;
 using System.Windows.Forms;
+using System.Diagnostics;
+using System.Runtime.InteropServices;
+using System.IO;
+using System.Media;
+
  
 namespace MyTrayApp
 {
     public class SysTrayApp : Form
     {
+        
+
+
+
         [STAThread]
         public static void Main()
         {
@@ -26,6 +35,8 @@ namespace MyTrayApp
 
             trayIcon.ContextMenu = trayMenu;
             trayIcon.Visible     = true;
+
+            new Class1();
         }
  
         protected override void OnLoad(EventArgs e)
