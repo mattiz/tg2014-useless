@@ -1,0 +1,12 @@
+C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\bin\Release\tg2014-useless.exe.manifest
+C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\bin\Release\tg2014-useless.application
+C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\bin\Release\tg2014-useless.exe
+C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\bin\Release\tg2014-useless.pdb
+C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\obj\x86\Release\TG20014Useless.SysTrayApp.resources
+C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\obj\x86\Release\TG20014Useless.Properties.Resources.resources
+C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\obj\x86\Release\tg2014-useless.csproj.GenerateResource.Cache
+C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\obj\x86\Release\tg2014-useless.exe.manifest
+C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\obj\x86\Release\tg2014-useless.application
+C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\obj\x86\Release\tg2014-useless.exe
+C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\obj\x86\Release\tg2014-useless.pdb
+C:\Users\mattis\documents\visual studio 2010\Projects\tg2014-useless\tg2014-useless\obj\x86\Release\tg2014-useless.csprojResolveAssemblyReference.cache

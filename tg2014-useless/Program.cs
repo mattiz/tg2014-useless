@@ -26,7 +26,7 @@ namespace TG20014Useless {
             trayMenu.MenuItems.Add("Exit", OnExit);
 
             trayIcon = new NotifyIcon();
-            trayIcon.Text = "TG2014 Useless";
+            trayIcon.Text = "Typewriter Simulator";
             trayIcon.Icon = TG20014Useless.Properties.Resources.star_black;
 
             trayIcon.ContextMenu = trayMenu;
@@ -45,7 +45,7 @@ namespace TG20014Useless {
 
 
         private void OnAbout(object sender, EventArgs e) {
-            MessageBox.Show("TG 2014 Useless contribution by mattis @ MooG");
+            MessageBox.Show("Typewriter Simulator - TG 2014 Useless contribution by #MooG");
         }
 
 

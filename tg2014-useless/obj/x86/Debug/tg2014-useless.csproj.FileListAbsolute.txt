@@ -12,3 +12,7 @@ C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-usel
 C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\obj\x86\Debug\tg2014-useless.csproj.GenerateResource.Cache
 C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\obj\x86\Debug\TG20014Useless.SysTrayApp.resources
 C:\Users\mattis\Documents\Visual Studio 2010\Projects\tg2014-useless\tg2014-useless\obj\x86\Debug\TG20014Useless.Properties.Resources.resources
+C:\Users\mattis\documents\visual studio 2010\Projects\tg2014-useless\tg2014-useless\bin\Debug\tg2014-useless.exe.manifest
+C:\Users\mattis\documents\visual studio 2010\Projects\tg2014-useless\tg2014-useless\bin\Debug\tg2014-useless.application
+C:\Users\mattis\documents\visual studio 2010\Projects\tg2014-useless\tg2014-useless\obj\x86\Debug\tg2014-useless.exe.manifest
+C:\Users\mattis\documents\visual studio 2010\Projects\tg2014-useless\tg2014-useless\obj\x86\Debug\tg2014-useless.application
